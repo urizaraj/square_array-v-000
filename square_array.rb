@@ -3,6 +3,6 @@ def square_array(array)
   array.each do |value|
     n = value ** 3
     result.push(n)
-  result
   end
+  result
 end
